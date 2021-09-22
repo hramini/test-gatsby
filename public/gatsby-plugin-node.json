@@ -1,0 +1,24 @@
+{
+  "paths": [
+    {
+      "path": "/git-flow/"
+    },
+    {
+      "path": "/using-vue-with-typescript-and-jsx/"
+    },
+    {
+      "path": "/"
+    },
+    {
+      "path": "/test-page/"
+    },
+    {
+      "path": "/404/"
+    },
+    {
+      "path": "/404.html"
+    }
+  ],
+  "redirects": [],
+  "pathPrefix": ""
+}
