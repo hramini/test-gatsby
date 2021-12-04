@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/montana",
+    "result": {"data":{"scores":{"nodes":[{"code":"MT","state":"Montana","grade":"C","cycle":"Overall","score":0.7322,"measure":"GrandTotal"}]}},"pageContext":{"state":"Montana"}},
+    "staticQueryHashes": []}

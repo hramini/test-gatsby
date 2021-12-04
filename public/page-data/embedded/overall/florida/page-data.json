@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/florida",
+    "result": {"data":{"scores":{"nodes":[{"code":"FL","state":"Florida","grade":"C-","cycle":"Overall","score":0.714675,"measure":"GrandTotal"}]}},"pageContext":{"state":"Florida"}},
+    "staticQueryHashes": []}

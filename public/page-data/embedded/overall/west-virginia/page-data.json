@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/west-virginia",
+    "result": {"data":{"scores":{"nodes":[{"code":"WV","state":"West Virginia","grade":"C","cycle":"Overall","score":0.735275,"measure":"GrandTotal"}]}},"pageContext":{"state":"West Virginia"}},
+    "staticQueryHashes": []}

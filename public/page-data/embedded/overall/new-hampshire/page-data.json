@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/new-hampshire",
+    "result": {"data":{"scores":{"nodes":[{"code":"NH","state":"New Hampshire","grade":"C+","cycle":"Overall","score":0.792575,"measure":"GrandTotal"}]}},"pageContext":{"state":"New Hampshire"}},
+    "staticQueryHashes": []}

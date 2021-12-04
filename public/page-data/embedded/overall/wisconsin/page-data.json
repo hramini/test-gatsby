@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/wisconsin",
+    "result": {"data":{"scores":{"nodes":[{"code":"WI","state":"Wisconsin","grade":"D+","cycle":"Overall","score":0.682325,"measure":"GrandTotal"}]}},"pageContext":{"state":"Wisconsin"}},
+    "staticQueryHashes": []}

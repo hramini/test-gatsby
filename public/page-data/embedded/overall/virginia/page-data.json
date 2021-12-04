@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/virginia",
+    "result": {"data":{"scores":{"nodes":[{"code":"VA","state":"Virginia","grade":"D-","cycle":"Overall","score":0.628025,"measure":"GrandTotal"}]}},"pageContext":{"state":"Virginia"}},
+    "staticQueryHashes": []}

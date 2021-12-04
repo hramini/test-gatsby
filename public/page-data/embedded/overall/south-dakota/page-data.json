@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/south-dakota",
+    "result": {"data":{"scores":{"nodes":[{"code":"SD","state":"South Dakota","grade":"C-","cycle":"Overall","score":0.726325,"measure":"GrandTotal"}]}},"pageContext":{"state":"South Dakota"}},
+    "staticQueryHashes": []}

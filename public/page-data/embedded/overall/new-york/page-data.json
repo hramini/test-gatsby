@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/new-york",
+    "result": {"data":{"scores":{"nodes":[{"code":"NY","state":"New York","grade":"D","cycle":"Overall","score":0.653275,"measure":"GrandTotal"}]}},"pageContext":{"state":"New York"}},
+    "staticQueryHashes": []}

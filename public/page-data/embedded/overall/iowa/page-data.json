@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/iowa",
+    "result": {"data":{"scores":{"nodes":[{"code":"IA","state":"Iowa","grade":"D","cycle":"Overall","score":0.646275,"measure":"GrandTotal"}]}},"pageContext":{"state":"Iowa"}},
+    "staticQueryHashes": []}

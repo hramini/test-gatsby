@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/rhode-island",
+    "result": {"data":{"scores":{"nodes":[{"code":"RI","state":"Rhode Island","grade":"C+","cycle":"Overall","score":0.771075,"measure":"GrandTotal"}]}},"pageContext":{"state":"Rhode Island"}},
+    "staticQueryHashes": []}

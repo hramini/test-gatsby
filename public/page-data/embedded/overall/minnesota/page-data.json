@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/minnesota",
+    "result": {"data":{"scores":{"nodes":[{"code":"MN","state":"Minnesota","grade":"C-","cycle":"Overall","score":0.707025,"measure":"GrandTotal"}]}},"pageContext":{"state":"Minnesota"}},
+    "staticQueryHashes": []}

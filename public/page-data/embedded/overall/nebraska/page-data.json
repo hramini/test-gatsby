@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/nebraska",
+    "result": {"data":{"scores":{"nodes":[{"code":"NE","state":"Nebraska","grade":"C+","cycle":"Overall","score":0.7721,"measure":"GrandTotal"}]}},"pageContext":{"state":"Nebraska"}},
+    "staticQueryHashes": []}

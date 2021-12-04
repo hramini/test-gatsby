@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/texas",
+    "result": {"data":{"scores":{"nodes":[{"code":"TX","state":"Texas","grade":"F","cycle":"Overall","score":0.52955,"measure":"GrandTotal"}]}},"pageContext":{"state":"Texas"}},
+    "staticQueryHashes": []}

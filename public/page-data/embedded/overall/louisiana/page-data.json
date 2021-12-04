@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/louisiana",
+    "result": {"data":{"scores":{"nodes":[{"code":"LA","state":"Louisiana","grade":"C","cycle":"Overall","score":0.757575,"measure":"GrandTotal"}]}},"pageContext":{"state":"Louisiana"}},
+    "staticQueryHashes": []}

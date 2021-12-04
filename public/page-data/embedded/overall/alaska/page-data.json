@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/alaska",
+    "result": {"data":{"scores":{"nodes":[{"code":"AK","state":"Alaska","grade":"D","cycle":"Overall","score":0.657,"measure":"GrandTotal"}]}},"pageContext":{"state":"Alaska"}},
+    "staticQueryHashes": []}

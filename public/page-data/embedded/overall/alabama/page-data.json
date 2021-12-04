@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/alabama",
+    "result": {"data":{"scores":{"nodes":[{"code":"AL","state":"Alabama","grade":"D-","cycle":"Overall","score":0.60475,"measure":"GrandTotal"}]}},"pageContext":{"state":"Alabama"}},
+    "staticQueryHashes": []}

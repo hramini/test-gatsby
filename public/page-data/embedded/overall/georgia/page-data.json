@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/georgia",
+    "result": {"data":{"scores":{"nodes":[{"code":"GA","state":"Georgia","grade":"F","cycle":"Overall","score":0.57425,"measure":"GrandTotal"}]}},"pageContext":{"state":"Georgia"}},
+    "staticQueryHashes": []}

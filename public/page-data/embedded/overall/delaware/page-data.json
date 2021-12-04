@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/delaware",
+    "result": {"data":{"scores":{"nodes":[{"code":"DE","state":"Delaware","grade":"D+","cycle":"Overall","score":0.689775,"measure":"GrandTotal"}]}},"pageContext":{"state":"Delaware"}},
+    "staticQueryHashes": []}

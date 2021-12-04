@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/missouri",
+    "result": {"data":{"scores":{"nodes":[{"code":"MO","state":"Missouri","grade":"D-","cycle":"Overall","score":0.607425,"measure":"GrandTotal"}]}},"pageContext":{"state":"Missouri"}},
+    "staticQueryHashes": []}

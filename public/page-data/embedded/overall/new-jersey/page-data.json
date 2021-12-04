@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/new-jersey",
+    "result": {"data":{"scores":{"nodes":[{"code":"NJ","state":"New Jersey","grade":"C+","cycle":"Overall","score":0.79825,"measure":"GrandTotal"}]}},"pageContext":{"state":"New Jersey"}},
+    "staticQueryHashes": []}

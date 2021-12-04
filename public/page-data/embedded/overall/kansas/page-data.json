@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/kansas",
+    "result": {"data":{"scores":{"nodes":[{"code":"KS","state":"Kansas","grade":"D-","cycle":"Overall","score":0.6268,"measure":"GrandTotal"}]}},"pageContext":{"state":"Kansas"}},
+    "staticQueryHashes": []}

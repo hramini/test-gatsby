@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/washington",
+    "result": {"data":{"scores":{"nodes":[{"code":"WA","state":"Washington","grade":"D","cycle":"Overall","score":0.6687,"measure":"GrandTotal"}]}},"pageContext":{"state":"Washington"}},
+    "staticQueryHashes": []}

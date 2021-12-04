@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/south-carolina",
+    "result": {"data":{"scores":{"nodes":[{"code":"SC","state":"South Carolina","grade":"F","cycle":"Overall","score":0.55755,"measure":"GrandTotal"}]}},"pageContext":{"state":"South Carolina"}},
+    "staticQueryHashes": []}

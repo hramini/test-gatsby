@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/massachusetts",
+    "result": {"data":{"scores":{"nodes":[{"code":"MA","state":"Massachusetts","grade":"D","cycle":"Overall","score":0.6476,"measure":"GrandTotal"}]}},"pageContext":{"state":"Massachusetts"}},
+    "staticQueryHashes": []}

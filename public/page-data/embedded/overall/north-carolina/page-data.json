@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/north-carolina",
+    "result": {"data":{"scores":{"nodes":[{"code":"NC","state":"North Carolina","grade":"D+","cycle":"Overall","score":0.67855,"measure":"GrandTotal"}]}},"pageContext":{"state":"North Carolina"}},
+    "staticQueryHashes": []}

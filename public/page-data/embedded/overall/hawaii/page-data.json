@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/hawaii",
+    "result": {"data":{"scores":{"nodes":[{"code":"HI","state":"Hawaii","grade":"C","cycle":"Overall","score":0.759775,"measure":"GrandTotal"}]}},"pageContext":{"state":"Hawaii"}},
+    "staticQueryHashes": []}

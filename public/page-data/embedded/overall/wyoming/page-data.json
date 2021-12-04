@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/wyoming",
+    "result": {"data":{"scores":{"nodes":[{"code":"WY","state":"Wyoming","grade":"F","cycle":"Overall","score":0.55845,"measure":"GrandTotal"}]}},"pageContext":{"state":"Wyoming"}},
+    "staticQueryHashes": []}

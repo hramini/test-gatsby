@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/illinois",
+    "result": {"data":{"scores":{"nodes":[{"code":"IL","state":"Illinois","grade":"C-","cycle":"Overall","score":0.7172,"measure":"GrandTotal"}]}},"pageContext":{"state":"Illinois"}},
+    "staticQueryHashes": []}

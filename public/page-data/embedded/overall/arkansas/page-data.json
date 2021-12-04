@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/arkansas",
+    "result": {"data":{"scores":{"nodes":[{"code":"AR","state":"Arkansas","grade":"D+","cycle":"Overall","score":0.6864,"measure":"GrandTotal"}]}},"pageContext":{"state":"Arkansas"}},
+    "staticQueryHashes": []}

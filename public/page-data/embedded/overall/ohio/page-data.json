@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/ohio",
+    "result": {"data":{"scores":{"nodes":[{"code":"OH","state":"Ohio","grade":"C","cycle":"Overall","score":0.73485,"measure":"GrandTotal"}]}},"pageContext":{"state":"Ohio"}},
+    "staticQueryHashes": []}

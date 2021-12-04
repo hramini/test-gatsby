@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/arizona",
+    "result": {"data":{"scores":{"nodes":[{"code":"AZ","state":"Arizona","grade":"D","cycle":"Overall","score":0.6336,"measure":"GrandTotal"}]}},"pageContext":{"state":"Arizona"}},
+    "staticQueryHashes": []}

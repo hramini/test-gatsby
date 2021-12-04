@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/oklahoma",
+    "result": {"data":{"scores":{"nodes":[{"code":"OK","state":"Oklahoma","grade":"D+","cycle":"Overall","score":0.696625,"measure":"GrandTotal"}]}},"pageContext":{"state":"Oklahoma"}},
+    "staticQueryHashes": []}

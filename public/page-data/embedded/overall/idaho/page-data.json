@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-embedded-overall-state-score-overall-state-score-tsx",
+    "path": "/embedded/overall/idaho",
+    "result": {"data":{"scores":{"nodes":[{"code":"ID","state":"Idaho","grade":"F","cycle":"Overall","score":0.56395,"measure":"GrandTotal"}]}},"pageContext":{"state":"Idaho"}},
+    "staticQueryHashes": []}
