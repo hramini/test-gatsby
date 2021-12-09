@@ -1558,13 +1558,13 @@
       "path": "/"
     },
     {
+      "path": "/about/"
+    },
+    {
       "path": "/404/"
     },
     {
       "path": "/404.html"
-    },
-    {
-      "path": "/about/"
     },
     {
       "path": "/demo/"
