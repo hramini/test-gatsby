@@ -769,16 +769,16 @@
       "path": "/embedded/map/overall"
     },
     {
-      "path": "/embedded/map/participation"
+      "path": "/embedded/mapparticipation"
     },
     {
-      "path": "/embedded/map/competition"
+      "path": "/embedded/mapcompetition"
     },
     {
-      "path": "/embedded/map/representation"
+      "path": "/embedded/maprepresentation"
     },
     {
-      "path": "/embedded/map/polarization"
+      "path": "/embedded/mappolarization"
     },
     {
       "path": "/state/alabama/overall"
@@ -1531,7 +1531,7 @@
       "path": "/state/wyoming/competition"
     },
     {
-      "path": "/state-of-reform/"
+      "path": "/state-of-reform"
     },
     {
       "path": "/state-of-reform/ranked-choice-voting"
@@ -1543,7 +1543,7 @@
       "path": "/state-of-reform/open-primaries"
     },
     {
-      "path": "/embedded/sor/"
+      "path": "/embedded/sor"
     },
     {
       "path": "/embedded/sor/ranked-choice-voting"
@@ -1558,22 +1558,22 @@
       "path": "/"
     },
     {
-      "path": "/about/"
-    },
-    {
       "path": "/404/"
     },
     {
       "path": "/404.html"
     },
     {
+      "path": "/about/"
+    },
+    {
       "path": "/demo/"
     },
     {
-      "path": "/methodology/"
+      "path": "/media/"
     },
     {
-      "path": "/media/"
+      "path": "/methodology/"
     },
     {
       "path": "/read-the-report/"
