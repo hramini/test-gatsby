@@ -1645,13 +1645,13 @@
       "path": "/"
     },
     {
-      "path": "/about-us/"
-    },
-    {
       "path": "/404/"
     },
     {
       "path": "/404.html"
+    },
+    {
+      "path": "/about-us/"
     },
     {
       "path": "/contact/"
@@ -1663,10 +1663,10 @@
       "path": "/methodology/"
     },
     {
-      "path": "/take-action/"
+      "path": "/privacy-policy/"
     },
     {
-      "path": "/privacy-policy/"
+      "path": "/take-action/"
     }
   ],
   "redirects": [],
