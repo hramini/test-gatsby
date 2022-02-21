@@ -1,9 +1,6 @@
 {
   "paths": [
     {
-      "path": "/hello-world/"
-    },
-    {
       "path": "/participation"
     },
     {
@@ -1555,7 +1552,100 @@
       "path": "/embedded/sor/open-primaries"
     },
     {
+      "path": "/read-the-report"
+    },
+    {
+      "path": "/read-the-report/executive-summary/"
+    },
+    {
+      "path": "/read-the-report/introduction/"
+    },
+    {
+      "path": "/read-the-report/participation/"
+    },
+    {
+      "path": "/media/category/article/"
+    },
+    {
+      "path": "/media/category/feature-post/"
+    },
+    {
+      "path": "/media/category/infographic/"
+    },
+    {
+      "path": "/media/category/news/"
+    },
+    {
+      "path": "/media/category/report/"
+    },
+    {
+      "path": "/media/category/uncategorized/"
+    },
+    {
+      "path": "/media/category/article/montana-where-the-gop-rode-historic-mail-balloting-turnout-to-victory-2"
+    },
+    {
+      "path": "/media/category/infographic/nycs-ranked-choice-voting-implementation-voters-liked-it-ranked-it-and-want-to-keep-using-it"
+    },
+    {
+      "path": "/media/category/article/debate-over-party-primaries-is-really-about-what-type-of-politics-louisiana-should-have"
+    },
+    {
+      "path": "/media/category/infographic/montana-where-the-gop-rode-historic-mail-balloting-turnout-to-victory"
+    },
+    {
+      "path": "/media/category/report/report-primaries-are-polarizing-us-can-reform-reverse-it-2"
+    },
+    {
+      "path": "/media/category/article/election-day-2021-rcv-takes-center-stage-2"
+    },
+    {
+      "path": "/media/category/article/25-grantees-named-for-2021-accelerator-award-program-2"
+    },
+    {
+      "path": "/media/category/report/vote-at-home-vermont-2"
+    },
+    {
+      "path": "/media/category/report/north-to-the-future-alaska-leads-the-way-passing-sweeping-election-reform-via-ballot-initiative"
+    },
+    {
+      "path": "/media/category/news/how-ranked-choice-voting-could-fix-the-california-recall-2"
+    },
+    {
+      "path": "/media/category/article/austin-voters-pass-ranked-choice-voting-joining-voters-first-movement-2"
+    },
+    {
+      "path": "/media/category/report/infrastructure-deal-is-last-of-its-kind-without-systemic-change-2"
+    },
+    {
+      "path": "/media/category/report/report-primaries-are-polarizing-us-can-reform-reverse-it"
+    },
+    {
+      "path": "/media/category/article/25-grantees-named-for-2021-accelerator-award-program"
+    },
+    {
+      "path": "/media/category/infographic/how-ranked-choice-voting-could-fix-the-california-recall"
+    },
+    {
+      "path": "/media/category/news/austin-voters-pass-ranked-choice-voting-joining-voters-first-movement"
+    },
+    {
+      "path": "/media/category/feature-post/vote-at-home-vermont"
+    },
+    {
+      "path": "/media/category/report/infrastructure-deal-is-last-of-its-kind-without-systemic-change"
+    },
+    {
+      "path": "/media/category/article/election-day-2021-rcv-takes-center-stage"
+    },
+    {
+      "path": "/media/category/uncategorized/hello-world"
+    },
+    {
       "path": "/"
+    },
+    {
+      "path": "/about-us/"
     },
     {
       "path": "/404/"
@@ -1564,10 +1654,7 @@
       "path": "/404.html"
     },
     {
-      "path": "/about/"
-    },
-    {
-      "path": "/demo/"
+      "path": "/contact/"
     },
     {
       "path": "/media/"
@@ -1576,10 +1663,10 @@
       "path": "/methodology/"
     },
     {
-      "path": "/read-the-report/"
+      "path": "/take-action/"
     },
     {
-      "path": "/take-action/"
+      "path": "/privacy-policy/"
     }
   ],
   "redirects": [],

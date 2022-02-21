@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-media-category-media-category-tsx",
+    "path": "/media/category/feature-post/",
+    "result": {"data":{"category":{"posts":{"nodes":[{"uri":"/vote-at-home-vermont/","title":"Vote at Home, Vermont!","slug":"vote-at-home-vermont","id":"cG9zdDoyMTA=","featuredImage":{"node":{"sourceUrl":"https://sod.markitasdone.com/wp-content/uploads/2021/12/unsplash_a1bicKTYqMo.jpg","altText":"","srcSet":"https://sod.markitasdone.com/wp-content/uploads/2021/12/unsplash_a1bicKTYqMo-300x234.jpg 300w, https://sod.markitasdone.com/wp-content/uploads/2021/12/unsplash_a1bicKTYqMo.jpg 732w","sizes":"(max-width: 300px) 100vw, 300px","mediaDetails":{"height":572,"width":732}}},"author":{"node":{"name":"dev"}},"date":"2021-12-28T16:34:10","categories":{"nodes":[{"name":"Feature-post","uri":"/category/feature-post/"}]}}]},"name":"Feature-post","uri":"/category/feature-post/","slug":"feature-post","link":"/category/feature-post/"}},"pageContext":{"categoryId":"dGVybTo4Mg=="}},
+    "staticQueryHashes": []}
